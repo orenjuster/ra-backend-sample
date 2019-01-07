@@ -1,0 +1,14 @@
+C:\dev\ra-server\ra-server\ra-server\bin\Debug\netcoreapp2.1\ra-server.deps.json
+C:\dev\ra-server\ra-server\ra-server\bin\Debug\netcoreapp2.1\ra-server.runtimeconfig.json
+C:\dev\ra-server\ra-server\ra-server\bin\Debug\netcoreapp2.1\ra-server.runtimeconfig.dev.json
+C:\dev\ra-server\ra-server\ra-server\bin\Debug\netcoreapp2.1\ra-server.dll
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.csprojAssemblyReference.cache
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.csproj.CoreCompileInputs.cache
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.RazorAssemblyInfo.cache
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.RazorAssemblyInfo.cs
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.AssemblyInfoInputs.cache
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.AssemblyInfo.cs
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.RazorTargetAssemblyInfo.cache
+C:\dev\ra-server\ra-server\ra-server\bin\Debug\netcoreapp2.1\ra-server.pdb
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.dll
+C:\dev\ra-server\ra-server\ra-server\obj\Debug\netcoreapp2.1\ra-server.pdb
