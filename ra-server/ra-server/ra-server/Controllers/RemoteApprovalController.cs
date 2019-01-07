@@ -26,7 +26,7 @@ namespace ra_server.Controllers
         public ActionResult<IEnumerable<string>> PostRemoteApprovalEvent(RemoteApprovalEvent approval)
         {
             PublishEvent(approval);
-            //return CreatedAtAction("AddRA", new { id = approval.ApprovalId }, approval);
+           
             return new string[] { "value1", "value2" };
         }
 
